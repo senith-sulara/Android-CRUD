@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">studentapp</string>
+    <string name="Name">Name</string>
+    <string name="surename">Surname</string>
+    <string name="mark">Mark</string>
+    <string name="subject">Subject</string>
+    <string name="silva">Silva</string>
+    <string name="kasun">Kasun</string>
+    <string name="maths">Maths</string>
+    <string name="marks">76</string>
+    <string name="Save">Save</string>
+    <string name="view">View All</string>
+    <string name="update">Update</string>
+    <string name="id">ID</string>
+    <string name="delete">Delete</string>
+</resources>
